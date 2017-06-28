@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\bin\Debug\netcoreapp1.1\561ArrayPartition1.deps.json
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\bin\Debug\netcoreapp1.1\561ArrayPartition1.runtimeconfig.json
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\bin\Debug\netcoreapp1.1\561ArrayPartition1.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\obj\Debug\netcoreapp1.1\561ArrayPartition1.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\obj\Debug\netcoreapp1.1\561ArrayPartition1.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\bin\Debug\netcoreapp1.1\561ArrayPartition1.dll
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\bin\Debug\netcoreapp1.1\561ArrayPartition1.pdb
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\obj\Debug\netcoreapp1.1\561ArrayPartition1.dll
+C:\Users\Taylo\Desktop\LeetCode\561ArrayPartition1\obj\Debug\netcoreapp1.1\561ArrayPartition1.pdb
