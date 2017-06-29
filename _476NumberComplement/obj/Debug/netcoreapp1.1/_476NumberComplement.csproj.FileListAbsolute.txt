@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\bin\Debug\netcoreapp1.1\_476NumberComplement.deps.json
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\bin\Debug\netcoreapp1.1\_476NumberComplement.runtimeconfig.json
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\bin\Debug\netcoreapp1.1\_476NumberComplement.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\bin\Debug\netcoreapp1.1\_476NumberComplement.dll
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\bin\Debug\netcoreapp1.1\_476NumberComplement.pdb
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\obj\Debug\netcoreapp1.1\_476NumberComplement.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\obj\Debug\netcoreapp1.1\_476NumberComplement.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\obj\Debug\netcoreapp1.1\_476NumberComplement.dll
+C:\Users\Taylo\Desktop\LeetCode\_476NumberComplement\obj\Debug\netcoreapp1.1\_476NumberComplement.pdb
